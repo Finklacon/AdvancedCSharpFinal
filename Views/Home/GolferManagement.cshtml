@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Golfer>
+@{
+    ViewData["Title"] = "Golfers";
+
+}
+
+<title>Golfer Management</title>
+<table class="table table-sm table-striped table-bordered bg-success" asp-action="get">
+    <thead>
+        <tr><th>First Name</th><th>Last Name</th><th>Age</th><th>Gender</th><th>Handicap</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var golfer in Model)
+        {
+            <tr>
+                <td>@golfer.FirstName</td>
+                <td>@golfer.LastName</td>
+                <td>@golfer.Age</td>
+                <td>@golfer.Gender</td>
+                <td>@golfer.Handicap</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-controller="Home"asp-action="AddGolfer"  class="btn btn-primary bg-success border-dark" >Add a golfer</a>

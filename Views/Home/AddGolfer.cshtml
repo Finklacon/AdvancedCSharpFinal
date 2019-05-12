@@ -1,0 +1,32 @@
+﻿@model Golfer
+@{
+    ViewData["Title"] = "Add a golfer";
+
+}
+
+<div class="col-md-3 bg-success">
+<form  method="post" asp-controller="Home" asp-action="AddGolfer">
+    <div class="form-group">
+        <label asp-for="FirstName">First Name:</label>
+        <input class="form-control" asp-for="FirstName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName">Last Name:</label>
+        <input class="form-control" asp-for="LastName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Age">Age:</label>
+        <input class="form-control" asp-for="Age" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender">Gender:</label>
+        <input class="form-control" asp-for="Gender" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Handicap">Handicap:</label>
+        <input class="form-control" asp-for="Handicap" />
+    </div>
+    <button asp-action="GolferManagement()" formmethod="post" type="submit" class="btn btn-primary bg-primary">Add golfer</button>
+    <a class="btn btn-secondary" asp-action="GolferManagement">Cancel</a>
+</form>
+</div>

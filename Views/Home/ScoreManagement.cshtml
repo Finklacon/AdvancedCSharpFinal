@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Scores>
+@{
+    ViewData["Title"] = "ScoresManagement";
+
+}
+<table class="table table-sm table-striped table-bordered bg-success">
+    <thead>
+        <tr><th>Number of Eagles</th><th>Number of Birdies</th><th>Number of Pars</th><th>Number of Bogeys</th><th>Number of Double Bogeys</th><th>Total Score to par +/-</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var score in Model)
+        {
+            <tr>
+                <td>@score.numEagles</td>
+                <td>@score.numBirdies</td>
+                <td>@score.numPars</td>
+                <td>@score.numBogeys</td>
+                <td>@score.numDoubleBogeys</td>
+                <td>@score.getScore()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="AddScore" class="btn btn-primary bg-success border-dark">Add a score</a>

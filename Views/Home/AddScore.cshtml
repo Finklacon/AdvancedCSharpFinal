@@ -1,0 +1,70 @@
+﻿@model Scores
+
+@{
+    ViewData["Title"] = "AddScore";
+}
+
+<h2>View</h2>
+
+<h4>Scores</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4 ml-5">
+        <form asp-action="AddScore" method="post" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="numEagles" class="control-label">Eagles</label>
+                <input asp-for="numEagles" class="form-control" />
+                <span asp-validation-for="numEagles" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numBirdies" class="control-label">Birdies</label>
+                <input asp-for="numBirdies" class="form-control" />
+                <span asp-validation-for="numBirdies" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numPars" class="control-label">Pars</label>
+                <input asp-for="numPars" class="form-control" />
+                <span asp-validation-for="numPars" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numBogeys" class="control-label">Bogeys</label>
+                <input asp-for="numBogeys" class="form-control" />
+                <span asp-validation-for="numBogeys" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numDoubleBogeys" class="control-label">Double Bogeys</label>
+                <input asp-for="numDoubleBogeys" class="form-control" />
+                <span asp-validation-for="numDoubleBogeys" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="totalPutts" class="control-label">Total Putts</label>
+                <input asp-for="totalPutts" class="form-control" />
+                <span asp-validation-for="totalPutts" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="totalScore" class="control-label">Total Round Score</label>
+                <input asp-for="totalScore" class="form-control" />
+                <span asp-validation-for="totalScore" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="frontNineScore" class="control-label">Front Nine Score</label>
+                <input asp-for="frontNineScore" class="form-control" />
+                <span asp-validation-for="frontNineScore" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="backNineScore" class="control-label">Back Nine Score</label>
+                <input asp-for="backNineScore" class="form-control" />
+                <span asp-validation-for="backNineScore" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-default bg-success" >Add Score</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ScoreManagement">Back to List</a>
+</div>
+

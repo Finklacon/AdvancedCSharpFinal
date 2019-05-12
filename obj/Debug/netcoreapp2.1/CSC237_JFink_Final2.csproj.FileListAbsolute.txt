@@ -1,0 +1,60 @@
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csprojAssemblyReference.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csproj.CoreCompileInputs.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorAssemblyInfo.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorAssemblyInfo.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.AssemblyInfoInputs.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.AssemblyInfo.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.deps.json
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.runtimeconfig.json
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.runtimeconfig.dev.json
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.dll
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.pdb
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.dll
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.pdb
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.TagHelpers.input.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.TagHelpers.output.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorCoreGenerate.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorTargetAssemblyInfo.cache
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorTargetAssemblyInfo.cs
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.pdb
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.dll
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.pdb
+C:\Users\dakrl\source\repos\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csproj.CopyComplete
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csprojAssemblyReference.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csproj.CoreCompileInputs.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorAssemblyInfo.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorAssemblyInfo.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.AssemblyInfoInputs.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.AssemblyInfo.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.dll
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.pdb
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.deps.json
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.runtimeconfig.json
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.runtimeconfig.dev.json
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.dll
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.pdb
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.dll
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\bin\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.pdb
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.TagHelpers.input.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.TagHelpers.output.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorCoreGenerate.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\GolferManagement.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorTargetAssemblyInfo.cache
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.RazorTargetAssemblyInfo.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.Views.pdb
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\CSC237_JFink_Final2.csproj.CopyComplete
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddGolfer.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScoreManagement.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddScore.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\DistanceManagement.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactUs.g.cshtml.cs
+C:\Users\dakrl\Desktop\Advanced C#\Final\CSC237_JFink_Final2\CSC237_JFink_Final2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
